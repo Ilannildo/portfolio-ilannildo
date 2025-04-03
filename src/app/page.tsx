@@ -364,6 +364,13 @@ export default function Home() {
               ]}
             />
             <ExperienceItem
+              title="Desenvolvedor de Software"
+              company="+Negócios - Freelance"
+              period="2023 - 2025"
+              description="Desenvolvedor responsável pelo desenvolvimento e manutenção da plataforma +Negócios da Redes Fiepa."
+              technologies={["Next.js", "TypeScript", "NestJs"]}
+            />
+            <ExperienceItem
               title="Desenvolvedor Web Pleno"
               company="CuboChat - Freelance"
               period="jan/2024 - mar/2024"
